@@ -1,6 +1,3 @@
-Cette nouvelle mise à jour ajoute :
+La version 1.2.1 contient :
 
-Les citations sur le menu principal
-Les citations peuvent désormais être désactivées dans les réglages.
-Un menu Citations mis à jour, continuellement permettant de partager des citations
-L'heure adaptative : en fonction de l'heure, la phrase à côté de votre nom change. 
+Résolution d'un bug n'affichant pas le message dynamique vers 18:00 - 23:00
