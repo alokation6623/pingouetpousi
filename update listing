@@ -1,4 +1,3 @@
-La version 1.2.1 contient :
+La version 1.2.3 contient :
 
-Résolution d'un bug n'affichant pas le message dynamique vers 18:00 - 23:00
-Affiche désormais ce que les mises a jour ajoutent.
+Résolution d'un bug n'affichant pas le message dynamique vers 18:00 - 22:00 et 22:00 - 06:00
